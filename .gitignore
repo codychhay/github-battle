@@ -1,3 +1,4 @@
 node_modules
 _DS_Store
 dist
+.idea
